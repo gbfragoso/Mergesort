@@ -11,4 +11,4 @@ gcc -o seq sequencias.c (or run in some IDE)
   * Import mergesort.zip to NetBeans, points to file on line 22 and then run.
   
 # Graph
-[!graph](plot.png)
+![graph](plot.png)
